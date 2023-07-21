@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ATAKTOSTUDIO
-- 👀 I’m interested in creative graphic design 
+- 👀 ATAKTO STUDIO is a Creative Graphic Design practice specializing in design, visual identity & brand experiences. Rooted in art direction with a strong conceptual base the studio generates its own distinctive language for brands & individuals. We see the studio as a platform to break genres and to reach new levels for both: clients & the studio. 
 - 🌱 I’m currently learning html, css & bootstrap
-- 💞️ I’m looking to collaborate on creative graphic design projects
+- 💞️ Let´s do it a da da
 - 📫 How to reach me: ataktostudio@proton.me
 
 <!---
